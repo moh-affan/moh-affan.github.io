@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.58b10c2f.css",
-    "main.js": "/static/js/main.3c8aab20.js",
+    "main.css": "/static/css/main.ba430a4d.css",
+    "main.js": "/static/js/main.024f7f62.js",
     "static/js/787.980335c4.chunk.js": "/static/js/787.980335c4.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
-    "static/media/themify.svg?-fvbane": "/static/media/themify.f0fc8c798eac5636249c.svg",
-    "static/media/flaticon.svg?": "/static/media/flaticon.7e0af01de0a5fa0e7a64.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.3b270ae3f01b143951b0.svg",
+    "static/media/themify.svg?-fvbane": "/static/media/themify.c4292f34297f1004471a.svg",
+    "static/media/flaticon.svg?": "/static/media/flaticon.d1747b856b44fd6a4cab.svg",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
     "static/media/cv.jpg": "/static/media/cv.cd2975e19bac4ee98526.jpg",
     "static/media/affan-1.jpg": "/static/media/affan-1.daf2621f9be62c938405.jpg",
@@ -21,6 +21,7 @@
     "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
     "static/media/akns.png": "/static/media/akns.81af4bfe5beb295fe0ee.png",
     "static/media/binamarga.jpg": "/static/media/binamarga.b59f2cf02063b675a9a3.jpg",
+    "static/media/resume.pdf": "/static/media/resume.3b3a095c14e62c63a8f2.pdf",
     "static/media/simpeg.jpg": "/static/media/simpeg.7430307578454ddacf64.jpg",
     "static/media/sic.jpg": "/static/media/sic.3f33d3fe7df1b7cb9f75.jpg",
     "static/media/klinikkonsultasi.jpg": "/static/media/klinikkonsultasi.5f5335bfccc93062e289.jpg",
@@ -50,12 +51,12 @@
     "static/media/diamond.svg": "/static/media/diamond.c5fec2efcc4aa872d24b49cc29d7164c.svg",
     "static/media/illustrator.svg": "/static/media/illustrator.eab27269047e3c5a8d96888ca1b8b74d.svg",
     "index.html": "/index.html",
-    "main.58b10c2f.css.map": "/static/css/main.58b10c2f.css.map",
-    "main.3c8aab20.js.map": "/static/js/main.3c8aab20.js.map",
+    "main.ba430a4d.css.map": "/static/css/main.ba430a4d.css.map",
+    "main.024f7f62.js.map": "/static/js/main.024f7f62.js.map",
     "787.980335c4.chunk.js.map": "/static/js/787.980335c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58b10c2f.css",
-    "static/js/main.3c8aab20.js"
+    "static/css/main.ba430a4d.css",
+    "static/js/main.024f7f62.js"
   ]
 }
